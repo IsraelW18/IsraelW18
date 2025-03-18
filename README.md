@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsraelW18
 - 👀 I’m interested in QA Automation using Selenium Pytest and Python programing
 - 🌱 I have over 15 years of experience as a QA engineer, with expertise in manual testing and working knowledge of automation, tools and frameworks
-- 💞️ I’m looking to collaborate on QA Automation and Python projects
+- 💼 Open to work — I'm currently looking for exciting QA Automation or Python Developer roles (remote/hybrid). Feel free to connect!
 - 📫 How to reach me https://www.linkedin.com/in/israel-wasserman/
 - ⚡ Fun facts:
   * I'm a Python enthusiast who enjoys exploring automation
