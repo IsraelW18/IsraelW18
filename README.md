@@ -15,6 +15,9 @@
 - ✅ I’ve tested software for over 15 years — and still get excited about a perfect test case!
 - ✈️ In my free time, I build and fly **RC planes**
 
+## 🚀 Side Project (In Progress)
+Currently developing a Python-based QA automation system designed to enhance testing processes using modern tools and AI technologies.
+
 ---
 
 > _“Quality is never an accident; it is always the result of intelligent effort.”_
