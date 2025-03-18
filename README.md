@@ -8,7 +8,7 @@
 - 🔍 Focused on writing clean, scalable, and maintainable test code
 
 ## 💼 Open to Work
-I'm currently looking for **QA Automation** or **Python Developer** roles (**remote/hybrid**).  
+I'm currently looking for **QA Automation** or **Python Developer** role (**remote/hybrid**).  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/israel-wasserman/)
 
 ## 🚀 Side Project (In Progress)
