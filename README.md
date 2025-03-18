@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Israel Wasserman (@IsraelW18)
+# 👋 Hi, I’m Israel Wasserman
 > GitHub username: @IsraelW18
 > 
 ## 💡 About Me
