@@ -4,7 +4,7 @@
 ## 💡 About Me
 - 👨‍💻 I'm a QA Automation Engineer & Python Developer
 - 👀 Passionate about QA Automation using **Selenium**, **Pytest**, and **Python**
-- 🧪 Over 15 years of experience in **manual testing**, with a solid foundation in **automation tools and frameworks**
+- - 🧪 Over 15 years of **manual QA experience**, complemented by practical **QA automation** work using tools like [Selenium/Pytest/etc.]
 - 🔍 Focused on writing clean, scalable, and maintainable test code
 
 ## 💼 Open to Work
