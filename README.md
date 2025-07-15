@@ -7,9 +7,9 @@
 - 🧪 Over 15 years of **manual QA experience**, complemented by practical **QA automation** work using tools like [Selenium/Pytest/etc.]
 - 🔍 Focused on writing clean, scalable, and maintainable test code
 
-## 🌍 Community Contribution
-🧠 I'm an active contributor to the "[Software Test Architect](https://www.linkedin.com/company/software-test-architect/posts/?feedView=all)" global community, where I regularly share insights, code examples, and real-world QA automation knowledge to support fellow SDETs and automation engineers.
-🔗 View contribution
+## 🌍 Community Contribution  
+🧠 I'm an active contributor to the [**Software Test Architect**](https://www.linkedin.com/company/software-test-architect/posts/?feedView=all) global community on LinkedIn, where I regularly share insights, code examples, and real-world QA automation knowledge to support fellow SDETs and automation engineers.  
+🔗 [View my contribution on GitHub](https://github.com/Test-Architect/pytest-python-sample)
 
 ## 💼 Open to Work
 I'm currently looking for **QA Automation** or **Python Developer** role (**remote/hybrid**).  
